@@ -36,7 +36,7 @@ The Hospital Management System is a web-based application developed to streamlin
 - CSS3 – Styling and Responsive Design
 - JavaScript – Client-side Functionality
 - Bootstrap – User Interface
-- **MVC Architecture** – Project Structure
+- MVC Architecture – Project Structure
 
 ---
 
@@ -47,12 +47,15 @@ The Hospital Management System is a web-based application developed to streamlin
 - Manage patients
 - Manage appointments
 - Monitor system activities
+- Admin can access patient records and prescriptions
+- Admin can access payment history and status tracking
 
  Doctor
 - View appointment requests
 - Manage schedules
 - Create prescriptions
 - Access patient information
+- Doctor can access patient records and prescriptions
 
  Patient
 - Register/Login
