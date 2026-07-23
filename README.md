@@ -36,7 +36,9 @@ The Hospital Management System is a web-based application developed to streamlin
 - CSS3 – Styling and Responsive Design
 - JavaScript – Client-side Functionality
 - Bootstrap – User Interface
+- AJAX – Asynchronous Data Communication (without page reload
 - MVC Architecture – Project Structure
+  
 
 ---
 
